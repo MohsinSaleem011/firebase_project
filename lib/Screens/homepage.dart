@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
           // ),
         ],
       ),
-      appBar: myAppBar('Chat App'),
+      appBar: myAppBar('Chat Appp'),
       drawer: Drawer(
         backgroundColor: Colors.white,
         child: SafeArea(
